@@ -6,7 +6,7 @@
 
 --->
 
-  I [capturethemoon](https://github.com/capturethemoon) recommend [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+  I [capturethemoon](https://github.com/capture the moon) recommend [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
 I [Nabeel Ahmed Khan](https://github.com/n4beel) recommend [learnux.io to learn about UI/UX techniques](https://learnux.io)
 
@@ -58,7 +58,7 @@ I [Arsalan Fakhar Siddiqui ](https://github.com/arsalanfakhar) recommend [Udemy]
 
 I [Arsalan Fakhar Siddiqui ](https://github.com/arsalanfakhar) recommend [W3Schools](https://www.w3schools.com/sql/)
 
-I [Pravallika Kura](https://github.com/PravallikaKura) recommend [Florin Pop project ideas to work on side projects](https://github.com/florinpop17/app-ideas)
+I [Pravallika Kura](https://github.com/Pravallika Kura) recommend [Florin Pop project ideas to work on side projects](https://github.com/florinpop17/app-ideas)
 
 
 I [Ricci](https://github.com/riccikl) recommend [Learn JavaScript with "You-Dont-Know-JS"](https://github.com/getify/You-Dont-Know-JS)
